@@ -1,0 +1,24 @@
+{
+  "name": "breven",
+  "version": "1.0.0",
+  "description": "Assignment for Week 11 of the class.",
+  "main": "index.js",
+  "dependencies": {
+    "json-config-reader": "^2.0.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breven/Week-11-Assignment.git"
+  },
+  "author": "Breven Hinckley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Breven/Week-11-Assignment/issues"
+  },
+  "homepage": "https://github.com/Breven/Week-11-Assignment#readme"
+}
